@@ -1,2 +1,2 @@
-# system-clock
-🕙 Exercicio de JavaScript, com interatividade basica com o sistema
+# what-is- your-age
+🔞 Exercicio de JavaScript de verificação de dados
