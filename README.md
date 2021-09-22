@@ -1,2 +1,2 @@
-# what-is- your-age
+# what-is-your-age
 🔞 Exercicio de JavaScript de verificação de dados
